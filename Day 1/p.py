@@ -1,0 +1,1 @@
+p = float(input("Principal Amount : "))
